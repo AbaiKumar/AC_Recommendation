@@ -1,0 +1,21 @@
+{
+    "1": {
+        "count": 2,
+        "model": [
+            {
+                "Model": "IJI",
+                "Status": "Ok",
+                "Problem": "Nil"
+            },
+            {
+                "Model": "IJI",
+                "Status": "Ok",
+                "Problem": "Nil"
+            }
+        ]
+    },
+    "2": {
+        "count": 0,
+        "model": []
+    }
+}
