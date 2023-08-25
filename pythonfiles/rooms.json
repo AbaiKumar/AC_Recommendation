@@ -1,0 +1,21 @@
+{
+    "1": {
+        "count": 2,
+        "model": [
+            {
+                "Model": "Samsung I76",
+                "Status": "No",
+                "Problem": "Nil"
+            },
+            {
+                "Model": "LG S08",
+                "Status": "ok",
+                "Problem": "Nil"
+            }
+        ]
+    },
+    "2": {
+        "count": 0,
+        "model": []
+    }
+}

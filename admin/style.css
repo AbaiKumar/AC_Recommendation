@@ -337,7 +337,6 @@ nav.close~.dashboard .top {
 .dash-content .boxes {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     flex-wrap: wrap;
 }
 
@@ -348,6 +347,9 @@ nav.close~.dashboard .top {
     border-radius: 12px;
     width: calc(100% / 3 - 15px);
     padding: 15px 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 20px;
     background-color: var(--box1-color);
     transition: var(--tran-05);
 }
@@ -529,9 +531,12 @@ nav.close~.dashboard .top {
 
 th,
 td {
-    padding: 25px;
+    padding: 40px;
+}
+tr{
+    color:red;
 }
 
-table {
+.activity-data table {
     margin: 10px;
 }
